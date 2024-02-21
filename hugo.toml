@@ -1,0 +1,4 @@
+baseURL = 'https://flamongo.io'
+languageCode = 'en-us'
+title = 'Flamongo'
+theme = 'ananke'
