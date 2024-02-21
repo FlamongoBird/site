@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flamongo</title>
+    <link>https://flamongo.io/</link>
+    <description>Recent content on Flamongo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 13:51:55 -0600</lastBuildDate>
+    <atom:link href="https://flamongo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://flamongo.io/posts/my-first-post/</link>
+      <pubDate>Wed, 21 Feb 2024 13:51:55 -0600</pubDate>
+      <guid>https://flamongo.io/posts/my-first-post/</guid>
+      <description>Hello, World! This is bold and this is italic or technically emphasized&#xA;but who really cares???</description>
+    </item>
+  </channel>
+</rss>
